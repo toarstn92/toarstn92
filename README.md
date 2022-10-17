@@ -8,7 +8,7 @@
 
 [<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="40px">](https://www.python.org/)
 [<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80px">](https://git-scm.com/)
-[<img src="https://media2.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="40px">](https://en.wikipedia.org/wiki/SQL)
+[<img src="https://media2.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="70px">](https://en.wikipedia.org/wiki/SQL)
 [<img src="https://miro.medium.com/max/1400/1*2-b5UkCIf7iF0eCTc-DFeQ.gif" width="60px">](https://aws.amazon.com/?nc2=h_lg)
 [<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png">](https://scikit-learn.org/stable/)
 [<img height="30" src="https://raw.githubusercontent.com/gahogg/gahogg/master/keras.png">](https://keras.io/)
