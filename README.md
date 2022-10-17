@@ -6,11 +6,15 @@
 
 ### **Languages and Tools**
 
-[<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" ></code>](https://www.python.org/)
-[<code><img height="30" src="https://github.com/gahogg/gahogg/blob/master/git.png?raw=true" ></code>](https://git-scm.com/)
+[<code><img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="40px"></code>](https://www.python.org/)
+[<code><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80px"></code>](https://git-scm.com/)
+[<code><img src="https://media.giphy.com/media/W71QxkQgCDM1WJYdFz/giphy.gif" width="40px"></code>](https://en.wikipedia.org/wiki/SQL)
+[<code><img src="https://miro.medium.com/max/1400/1*2-b5UkCIf7iF0eCTc-DFeQ.gif" width="60px"></code>](https://aws.amazon.com/?nc2=h_lg)
+[<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png"></code>](https://scikit-learn.org/stable/)
 [<code><img height="30" src="https://raw.githubusercontent.com/gahogg/gahogg/master/keras.png"></code>](https://keras.io/)
-[<code><img height="30" src="https://raw.githubusercontent.com/gahogg/gahogg/master/tensorflow.png"></code>](https://www.tensorflow.org/)
-[<code><img height="40" src="https://giphy.com/stickers/BooleanCareers-transparent-V8y1y1FzxDETVUtQE4"></code>](https://en.wikipedia.org/wiki/SQL)
+[<code><img height="40" src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif"></code>](https://www.tensorflow.org/)
+[<code><img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="40px"></code>](https://code.visualstudio.com/)
+[<code><img height="40" src="https://streamlit.io/images/brand/streamlit-logo-primary-lightmark-lighttext.png"></code>](https://streamlit.io/)
 
 <br/>
 
