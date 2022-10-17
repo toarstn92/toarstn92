@@ -1,8 +1,6 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
-## Hello, I’m Tosin
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hello, I’m Tosin
 
-<img src="https://media.giphy.com/media/mX3Fb07CJXDuheCUi0/giphy.gif" width="40px">
-### Interested in and looking to collaborate on Data science projects
+### <img src="https://media.giphy.com/media/mX3Fb07CJXDuheCUi0/giphy.gif" width="40px"> Interested in and looking to collaborate on Data science projects
 
 <br/>
 
