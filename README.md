@@ -1,8 +1,12 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> ## Hello, I’m Tosin
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Data science projects
-- 📫 How to reach me: adebowale.tosin.e@gmail.com
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+## Hello, I’m Tosin
+
+<img src="https://giphy.com/stickers/eyes-looking-mX3Fb07CJXDuheCUi0" width="40px">
+interested in and looking to collaborate on Data science projects
+
+**sample project**
+
+[Climate change sentiment analysis app](https://climate-change-sentiment-analysis-appbase-app-streamli-v7uhh8.streamlitapp.com/) 🌍
 
 <!---
 toarstn92/toarstn92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
