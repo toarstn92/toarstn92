@@ -4,7 +4,17 @@
 
 <br/>
 
-**sample project**
+### **Languages and Tools**
+
+[<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" ></code>](https://www.python.org/)
+[<code><img height="30" src="https://github.com/gahogg/gahogg/blob/master/git.png?raw=true" ></code>](https://git-scm.com/)
+[<code><img height="30" src="https://raw.githubusercontent.com/gahogg/gahogg/master/keras.png"></code>](https://keras.io/)
+[<code><img height="30" src="https://raw.githubusercontent.com/gahogg/gahogg/master/tensorflow.png"></code>](https://www.tensorflow.org/)
+[<code><img height="30" src="https://giphy.com/stickers/BooleanCareers-transparent-V8y1y1FzxDETVUtQE4"></code>](https://en.wikipedia.org/wiki/SQL)
+
+<br/>
+
+### **sample project**
 
 [Climate change sentiment analysis app](https://climate-change-sentiment-analysis-appbase-app-streamli-v7uhh8.streamlitapp.com/) 🌍
 
