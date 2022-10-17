@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tosin
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> ## Hello, I’m Tosin
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Data science projects
