@@ -1,8 +1,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> Hello, I’m Tosin
 
 ### <img src="https://media.giphy.com/media/mX3Fb07CJXDuheCUi0/giphy.gif" width="40px"> Interested in and looking to collaborate on Data science projects
-
-<br/>
+---
 
 ### **Languages and Tools**
 
@@ -15,8 +14,7 @@
 [<img height="40" src="https://media.giphy.com/media/SU2ic3wTfuC6JhD1lA/giphy.gif">](https://www.tensorflow.org/)
 [<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="40px">](https://code.visualstudio.com/)
 [<img height="40" src="https://streamlit.io/images/brand/streamlit-logo-primary-lightmark-lighttext.png">](https://streamlit.io/)
-
-<br/>
+---
 
 ### **sample project**
 
