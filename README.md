@@ -7,6 +7,8 @@
 ### **Languages and Tools**
 
 [<code><img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="40px"></code>](https://www.python.org/)
+
+
 [<code><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80px"></code>](https://git-scm.com/)
 [<code><img src="https://media.giphy.com/media/W71QxkQgCDM1WJYdFz/giphy.gif" width="40px"></code>](https://en.wikipedia.org/wiki/SQL)
 [<code><img src="https://miro.medium.com/max/1400/1*2-b5UkCIf7iF0eCTc-DFeQ.gif" width="60px"></code>](https://aws.amazon.com/?nc2=h_lg)
