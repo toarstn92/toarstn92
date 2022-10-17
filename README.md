@@ -6,7 +6,7 @@
 
 ### **Languages and Tools**
 
-[<code><img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="40px"></code>](https://www.python.org/)
+[<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="40px">](https://www.python.org/)
 
 
 [<code><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80px"></code>](https://git-scm.com/)
